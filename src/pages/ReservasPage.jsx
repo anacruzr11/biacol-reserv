@@ -113,6 +113,12 @@ const ReservasPage = () => {
        </div>         
        </div>                   
       </div>
+
+      <footer className="footer">
+       <div className="footertext">
+         <p>© 2023 Ana María Cruz Rodríguez</p>
+       </div>
+      </footer> 
     </>
   );
 };

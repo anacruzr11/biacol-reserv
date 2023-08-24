@@ -16,15 +16,14 @@ const HomePage = () => {
           </div>            
            <div className="imgPrincipal col-7">  
           </div>
-      </main>      
-    </>  
+      </main>   
+      <footer className="footer">
+       <div className="footertext">
+         <p>© 2023 Ana María Cruz Rodríguez</p>
+       </div>
+      </footer>   
+    </>
   );
 };
 
 export default HomePage;
-
-   //<footer className="footer">
-      //<div className="footertext">
-       // <p>© 2023 Ana María Cruz Rodríguez</p>
-     //  </div>
-     // </footer>
