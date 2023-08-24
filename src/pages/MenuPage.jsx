@@ -3,6 +3,7 @@ import style from '../styles/Menu.css'
 const MenuPage = () => {
   return (
     <>
+    <div className='body'>
       <div className="text-center">
     <h1 className='titulo'>Menú</h1>
     <div className="seccion1">
@@ -126,7 +127,8 @@ const MenuPage = () => {
       </div>                    
     </div>                   
   </div>
-    </>
+  </div>
+ </>
   )
 }
 
