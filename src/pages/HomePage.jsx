@@ -4,7 +4,7 @@ const HomePage = () => {
   return (
     <>
       <main className='informacion'>
-         <div className="description col-5">
+         <div className="description col">
            <div className="titles">
              <h1 className='titulo'>Biacol</h1>
              <h2 className="subtitle">La mejor comida colombiana</h2>
@@ -14,7 +14,7 @@ const HomePage = () => {
            <p>Atrévete a probar nuevos sabores traídos desde cada una de las regiones del país a tu mesa.</p>
          </div>
           </div>            
-           <div className="imgPrincipal col-7">  
+           <div className="imgPrincipal col">  
           </div>
       </main>   
       <footer className="footer">
