@@ -15,7 +15,7 @@ const AppRouter = () => {
   return (
     <Router>
       <PublicNavbar />
-      <div className="container pt-5">
+      <div className="pt-5">
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/reservas" element={<ReservasPage />} />

@@ -2,6 +2,7 @@ import { NavLink } from "react-router-dom";
 
 const PublicNavbar = () => {
   return (
+    <>
     <nav className="navbar navbar-expand-lg bg-dark navbar-dark">
       <div className="container">
         <NavLink className="navbar-brand" to="/home">
@@ -46,6 +47,7 @@ const PublicNavbar = () => {
         </div>
       </div>
     </nav>
+    </>
   );
 };
 
