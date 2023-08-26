@@ -106,22 +106,22 @@ const ReservasPage = () => {
     }
       
       <div className="image col-6">
-   <h1 className='titulo1 text-center'>Reserva con nosotros</h1>
-    <div className="reserInfo"> 
-      <div className="texts col-6">        
+       <h1 className='titulo1 text-center'>Reserva con nosotros</h1>
+      <div className="reserInfo"> 
+       <div className="texts col-6">        
         <h5>Déjanos tus datos y pronto estaremos comunicándonos contigo para completar tu reserva. También puedes llamarnos o contactarnos por correo.</h5>
-      </div>
+       </div>
       <div className="contact-info col-3">
         <div className="phone">
-          <h5>+57 (310) 011-0498</h5>
+         <h5>+57 (310) 011-0498</h5>
         </div>
         <div className="email">
           <h5>contact-info@biacol.com</h5>
         </div>
         <h5>Carrera 4 #11c-98</h5>
       </div>                    
-    </div>                   
-  </div>
+      </div>                   
+       </div>
 
       <footer className="footer">
        <div className="footertext">
